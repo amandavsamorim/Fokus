@@ -33,7 +33,7 @@ Durante o desenvolvimento, pratiquei:
 
 ## 📷 Preview
 
-*Adicione aqui uma imagem ou gif do seu temporizador funcionando, se possível.*
+![Preview do temporizador](img1.png)
 
 ## 🚀 Como executar
 
